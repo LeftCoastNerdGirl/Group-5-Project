@@ -5,8 +5,8 @@
 
 
 
-Temperature and precipitation data:  https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series
 
+Temperature and precipitation data:  https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-serie
 
 
 
