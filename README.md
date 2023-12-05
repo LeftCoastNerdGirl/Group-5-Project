@@ -5,8 +5,11 @@
 
 
 DataSet:
+
 Temperature and precipitation data:  https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series
+
 Beef production data:  https://quickstats.nass.usda.gov
+
 wheat production data:https://quickstats.nass.usda.gov
 
 
@@ -18,11 +21,6 @@ Analysis Question:
 
 3.Impact of wheatproduction on beef production?
 
-   We added this question to look at whether wheat production has effect on beef production.
-   
-   Because the cattle industry depends on feed grains.The supply of wheat grain can affect the beef industry.
-   
-   The wheat production is inturn affected by wheat production.
    
    
  
