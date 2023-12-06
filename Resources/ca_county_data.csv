@@ -1,0 +1,58 @@
+﻿District,County ,County Seat,Lat,Lng,Beef cows (head),Beef cows (% of total)
+Southern California,Imperial  ,"El Centro ,California",32.79200000,-115.56305100,0,0.00%
+Central Coast,Contra Costa  ,"Martinez ,California",33.56280410,-116.15306030,0,0.00%
+Southern California,San Diego  ,"San Diego ,California",32.71742020,-117.16277280,3900,0.72%
+Southern California,San Bernardino  ,"San Bernardino ,California",34.10816210,-117.28946000,3600,0.67%
+Southern California,Riverside  ,"Riverside ,California",33.98249490,-117.37423890,1500,0.28%
+Southern California,Orange  ,"Santa Ana ,California",33.74949510,-117.87322130,0,0.00%
+Sierra Mountains,Inyo  ,"Independence ,California",36.80250650,-118.19971820,0,0.00%
+Southern California,Los Angeles  ,"Los Angeles ,California",34.05369090,-118.24276600,0,0.00%
+San Joaquin Valley,Kern  ,"Bakersfield ,California",35.37387120,-119.01946390,41500,7.70%
+Sierra Mountains,Mono  ,"Bridgeport ,California",38.25575700,-119.23126650,0,0.00%
+San Joaquin Valley,Tulare  ,"Visalia ,California",36.33022840,-119.29205800,72000,13.35%
+Southern California,Ventura  ,"Ventura ,California",34.34350920,-119.29560423,3500,0.65%
+San Joaquin Valley,Kings  ,"Hanford ,California",36.29319850,-119.64190150,4200,0.78%
+Southern California,Santa Barbara  ,"Santa Barbara ,California",34.42213190,-119.70266700,0,0.00%
+Sierra Mountains,Alpine ,"Markleeville ,California",38.69491580,-119.78020200,0,0.00%
+San Joaquin Valley,Fresno  ,"Fresno ,California",36.73944210,-119.78483000,16200,3.00%
+Sierra Mountains,Mariposa  ,"Mariposa ,California",37.48493770,-119.96628400,0,0.00%
+San Joaquin Valley,Madera  ,"Madera ,California",36.96227450,-120.05946850,12600,2.34%
+Sierra Mountains,Tuolumne  ,"Sonora ,California",37.98409110,-120.38213810,0,0.00%
+San Joaquin Valley,Merced  ,"Merced ,California",37.30295680,-120.48432690,33000,6.12%
+Northeast,Modoc  ,"Alturas ,California",41.48712300,-120.54232700,0,0.00%
+Northeast,Lassen  ,"Susanville ,California",40.41628420,-120.65300600,22000,4.08%
+Central Coast,San Luis Obispo  ,"San Luis Obispo ,California",35.28275250,-120.65961500,22500,4.17%
+Sierra Mountains,Calaveras ,"San Andreas ,California",38.19602980,-120.68048700,10700,1.98%
+Sierra Mountains,Amador  ,"Jackson ,California",38.34880240,-120.77410100,0,0.00%
+Sierra Mountains,El Dorado  ,"Placerville ,California",38.72962520,-120.79854600,3100,0.57%
+Sierra Mountains,Sierra  ,"Downieville ,California",39.56044390,-120.82821700,3700,0.69%
+Northeast,Plumas  ,"Quincy ,California",39.93680800,-120.94712240,0,0.00%
+San Joaquin Valley,Stanislaus  ,"Modesto ,California",37.63909720,-120.99687820,26500,4.91%
+Sierra Mountains,Nevada  ,"Nevada City ,California",39.26156060,-121.01605940,2100,0.39%
+Sierra Mountains,Placer  ,"Auburn ,California",38.89459390,-121.07398970,8000,1.48%
+San Joaquin Valley,San Joaquin  ,"Stockton ,California",37.95770160,-121.29077960,17300,3.21%
+Central Coast,San Benito  ,"Hollister ,California",36.85245450,-121.40160210,0,0.00%
+Sacramento Valley,Sacramento  ,"Sacramento ,California",38.58106060,-121.49389500,13800,2.56%
+Sacramento Valley,Butte  ,"Oroville ,California",39.51377520,-121.55635900,0,0.00%
+Sacramento Valley,Yuba  ,"Marysville ,California",39.14572470,-121.59135160,0,0.00%
+Sacramento Valley,Sutter  ,"Yuba City ,California",39.14044770,-121.61691080,3400,0.63%
+Central Coast,Monterey  ,"Salinas ,California",36.67441170,-121.65503700,21000,3.89%
+Sacramento Valley,Yolo  ,"Woodland ,California",38.67861090,-121.77332850,0,0.00%
+Central Coast,Santa Clara  ,"San Jose ,California",37.33616630,-121.89059100,10900,2.02%
+Sacramento Valley,Colusa  ,"Colusa ,California",39.21410190,-122.00923400,11200,2.08%
+Central Coast,Santa Cruz  ,"Santa Cruz ,California",36.97436260,-122.02946730,400,0.07%
+Sacramento Valley,Solano  ,"Fairfield ,California",38.24935810,-122.03996600,16100,2.99%
+Sacramento Valley,Glenn  ,"Willows ,California",39.52332760,-122.19353100,15400,2.86%
+Central Coast,San Mateo  ,"Redwood City ,California",37.48632390,-122.23252300,1000,0.19%
+Sacramento Valley,Tehama  ,"Red Bluff ,California",40.17842790,-122.23592300,27000,5.01%
+Central Coast,Alameda  ,"Oakland ,California",37.80445570,-122.27135600,11400,2.11%
+Central Coast,Napa  ,"Napa ,California",38.29713670,-122.28552930,0,0.00%
+Sisklyou-Shasta,Shasta  ,"Redding ,California",40.58635630,-122.39167500,16200,3.00%
+Central Coast,Marin  ,"San Rafael ,California",37.97477950,-122.53166860,8300,1.54%
+Sisklyou-Shasta,Siskiyou  ,"Yreka ,California",41.73261600,-122.63776600,26000,4.82%
+Central Coast,Sonoma  ,"Santa Rosa ,California",38.44049250,-122.71410490,10900,2.02%
+Central Coast,Lake  ,"Lakeport ,California",39.04295060,-122.91582900,2000,0.37%
+Sisklyou-Shasta,Trinity  ,"Weaverville ,California",40.73095830,-122.93901680,1700,0.32%
+Northern Coast,Mendocino  ,"Ukiah ,California",39.15016620,-123.20778610,16500,3.06%
+Northern Coast,Del Norte ,"Crescent City ,California",41.85280485,-124.14990517,800,0.15%
+Northern Coast,Humboldt  ,"Eureka ,California",40.79068710,-124.16737460,17300,3.21%
