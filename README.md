@@ -26,6 +26,7 @@ Another area of exploration would be to look at other potential factors that cou
 Notes
 ●    All code used is included in the jupyter notebook in the group project repository.
 ●    Analysis can be found in the powerpoint presentation and also within the code.
+●    CA map requires BokehJS installed on computer to run. Copy of map is added to output file.
 
 
 
