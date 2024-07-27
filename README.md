@@ -52,6 +52,7 @@ Our goal was to explore potential relationships between climate change and beef 
 Another area of exploration would be to look at other potential factors that could affect beef production beyond rainfall, temperature, and available food source that we looked at here. 
 
 Presentation Link: https://docs.google.com/presentation/d/19_LynnP9FKALFdarFGL5-iwkWalxgH6-/edit?usp=sharing&ouid=111575204932088164314&rtpof=true&sd=true  
+
 Notes  
 ●    All code used is included in the jupyter notebook in the group project repository.  
 ●    Analysis can be found in the powerpoint presentation and also within the code.  
