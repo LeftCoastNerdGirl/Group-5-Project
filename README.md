@@ -1,4 +1,4 @@
-# ProjectOne_GroupFive
+# Potential Factors Affecting California Beef Production
 
 Project 1 Group 5 
 Betul Akbas
@@ -13,16 +13,16 @@ Our topic began as an exploration of the effects of climate change. Because we h
 
 
 Analysis Questions:
-1.Impact of temperature on beef production?
-2.Impact of rainfall on beef production?
-3.Impact of wheat production on beef production?
+1.Impact of temperature on beef production?  
+2.Impact of rainfall on beef production?  
+3.Impact of wheat production on beef production?  
 
 
-Our data is sourced from the USDA website. We chose this organization as our source because we felt it would have sufficient and accurate information and because the source would be considered reputable by the audience of the final presentation.
-Temperature and precipitation data: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-serie
-Beef production data: https://quickstats.nass.usda.gov
-wheat production data:https://quickstats.nass.usda.gov
-CA county data: https://www.nass.usda.gov/Statistics_by_State/California/Publications/County_Estimates/2022/CATCNTYE2022.pdf
+Our data is sourced from the USDA website. We chose this organization as our source because we felt it would have sufficient and accurate information and because the source would be considered reputable by the audience of the final presentation.  
+Temperature and precipitation data: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-serie  
+Beef production data: https://quickstats.nass.usda.gov  
+wheat production data:https://quickstats.nass.usda.gov  
+CA county data: https://www.nass.usda.gov/Statistics_by_State/California/Publications/County_Estimates/2022/CATCNTYE2022.pdf  
 
 
 Our initial plan was to look at monthly statistics of rainfall and average temperature as our potential indications of climate change. First we decided to limit the scope to just California instead of the entire US. We began to pull the data from the USDA site and found that beef production statistics could only be found at the annual level so we switched from monthly to annual comparison.
@@ -40,10 +40,10 @@ Our goal was to explore potential relationships between climate change and beef 
 Another area of exploration would be to look at other potential factors that could affect beef production beyond rainfall, temperature, and available food source that we looked at here. 
 
 Presentation Link: https://docs.google.com/presentation/d/19_LynnP9FKALFdarFGL5-iwkWalxgH6-/edit?usp=sharing&ouid=111575204932088164314&rtpof=true&sd=true
-Notes
-●    All code used is included in the jupyter notebook in the group project repository.
-●    Analysis can be found in the powerpoint presentation and also within the code.
-●    CA map requires BokehJS installed on computer to run. Copy of map is added to output file.
+Notes  
+●    All code used is included in the jupyter notebook in the group project repository.  
+●    Analysis can be found in the powerpoint presentation and also within the code.  
+●    CA map requires BokehJS installed on computer to run. Copy of map is added to output file.  
 
 
 
