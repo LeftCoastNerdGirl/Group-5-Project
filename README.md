@@ -9,6 +9,17 @@ Lori Bradshaw
 Elizabeth Dworkin  
 Celestee Williams  
 
+# Project Guidelines
+This was our first group project so the guidelines were very broad to enable us to demonstrate our skills more creatively. These were the primary requirements:  
+-Professional quality presentation  
+-Ample and complete README file  
+-6-8 visualizations with accurate labeling, supported with ample and precise explanations  
+-Professional quality write up to summarize major findings and their implications  
+-Presentation answer all questions from the original project proposal and are strongly supported with numbers and visualizations  
+-Use of statistical analysis from lessons including any of the following: aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis  
+-All group members must speak during the oral presentation  
+-Slides presented must be visually clean, professional, relevant to the material, and must effectively demonstrate the project  
+
 # Our Topic
 Our topic began as an exploration of the effects of climate change. Because we have group members with experience in the industry, we chose to explore the subject by relating it to the cattle industry. We began by looking at milk production and beef production.  
 
