@@ -1,5 +1,7 @@
 # Potential Factors Affecting California Beef Production
 
+This repo is forked from the single repo we used to collaborate for our project.
+
 Project 1 Group 5  
 Betul Akbas  
 Priya Durai Arasan  
