@@ -7,12 +7,10 @@ Lori Bradshaw
 Elizabeth Dworkin  
 Celestee Williams  
 
-Our topic began as an exploration of the effects of climate change. Because we have group members with experience in the industry, we chose to explore the subject by relating it to the cattle industry. We began by looking at milk production and beef production.
+Our topic began as an exploration of the effects of climate change. Because we have group members with experience in the industry, we chose to explore the subject by relating it to the cattle industry. We began by looking at milk production and beef production.  
 
 
-
-
-Analysis Questions:
+Analysis Questions:  
 1.Impact of temperature on beef production?  
 2.Impact of rainfall on beef production?  
 3.Impact of wheat production on beef production?  
