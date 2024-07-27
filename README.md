@@ -1,11 +1,11 @@
 # Potential Factors Affecting California Beef Production
 
 Project 1 Group 5 
-Betul Akbas
-Priya Durai Arasan
-Lori Bradshaw
-Elizabeth Dworkin
-Celestee Williams
+Betul Akbas  
+Priya Durai Arasan  
+Lori Bradshaw  
+Elizabeth Dworkin  
+Celestee Williams  
 
 Our topic began as an exploration of the effects of climate change. Because we have group members with experience in the industry, we chose to explore the subject by relating it to the cattle industry. We began by looking at milk production and beef production.
 
