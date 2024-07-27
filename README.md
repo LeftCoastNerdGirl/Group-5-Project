@@ -1,6 +1,6 @@
 # Potential Factors Affecting California Beef Production
 
-Project 1 Group 5 
+Project 1 Group 5  
 Betul Akbas  
 Priya Durai Arasan  
 Lori Bradshaw  
